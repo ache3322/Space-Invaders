@@ -9,6 +9,15 @@ The project uses the _pygame_ library and is required for the project to work. U
 pip install pygame
 ```
 
+# Running
+Using a command prompt or terminal, execute the following command:
+
+```
+python .\main.py
+```
+
+The above command assumes you have the Python path configured in the environment variables.
+
 # Instructions
 This game is inspired by [_Space Invaders_](https://en.wikipedia.org/wiki/Space_Invaders), where the player controls a ship and alien invaders come down from the top of the screen. Once the program loads, the player can either start the game or click on instructions.
 
