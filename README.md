@@ -13,3 +13,5 @@ pip install pygame
 This game is inspired by [_Space Invaders_](https://en.wikipedia.org/wiki/Space_Invaders), where the player controls a ship and alien invaders come down from the top of the screen. Once the program loads, the player can either start the game or click on instructions.
 
 The player is able to move left and right using **LEFT** and **RIGHT** arrow keys. The player faces enemies that are coming from the top of the screen. The player is able to shoot a laser by either clicking **SPACE** or the **LEFT-CLICK**.
+
+Try to survive as long as possible.
